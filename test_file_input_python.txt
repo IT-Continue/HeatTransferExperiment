@@ -1,0 +1,9 @@
+name_of_experement = file_test
+N = 100
+R = 0.1
+lamda = 0.12
+ro = 400
+C = 500
+T0 = 20
+Th = 50
+t_end = 3600
