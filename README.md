@@ -16,3 +16,7 @@ Python and Pascal variants
 # Python графиками (нужное сначала выполнить пункт Python без графиков)
 1) [Скачайте Visual Studio Code](https://www.youtube.com/watch?v=HxJXKFxhah4)
 2) [Установите модуль для Jupiter Noutbook в VS Code](https://youtu.be/9V7AoX0TvSM)
+
+# Источники информации
+1) https://disk.yandex.ru/i/yOxvul3vgAj94w
+2) https://disk.yandex.ru/i/273TnNRBmhl31g
