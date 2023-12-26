@@ -1,7 +1,9 @@
 # HeatTransferExperiment
 Python and Pascal variants
 
-# Вся инструкция для операционной системы Windows 10
+# [Демонстрация работы программы](https://youtu.be/NOKG_KBoY1U)
+
+# Инструкция для операционной системы Windows 10
 
 # Pascal
 1) Установите среду разработки для Pascal, например, [PascalABC.NET](https://pascalabc.net/en/ssyilki-dlya-skachivaniya)
