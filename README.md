@@ -1,7 +1,7 @@
 # HeatTransferExperiment
 Python and Pascal variants
 
-# [Демонстрация работы программы](https://youtu.be/NOKG_KBoY1U)
+# [Демонстрация работы программы (нажми и откроется ролик на ютубе)](https://youtu.be/NOKG_KBoY1U)
 
 # Инструкция для операционной системы Windows 10
 
